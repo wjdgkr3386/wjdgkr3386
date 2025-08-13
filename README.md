@@ -59,7 +59,6 @@ KDT 웹 개발 과정 수료(6개월)
 - Email: **wjdgkr3386@naver.com**
 
 끊임없이 배우고 성장하고 싶습니다.
-Feel free to connect!
 
 ---
 
