@@ -35,13 +35,80 @@
 - vibe 코딩으로 구현
 
 ---
+## 🛠️ Tech Stack (Reorganized)
 
-## 🛠️ Tech Stack
+### 🎨 Frontend
+<div align="center">
+<!-- Frameworks & UI -->
+<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
+<a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50"/></a>
+<a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/></a>
+<a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/></a>
+<a href="https://jquery.com/"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/></a>
+<a href="https://www.chartjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50"/></a>
+<!-- Languages -->
+<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
+</div>
 
-- **언어**: Python, Java, JavaScript, HTML/CSS/JQuery, Oracle, SQL
-- **프레임워크/도구**: Spring, mySQL
-- **버전관리**: GitHub
+### ⚙️ Backend & APIs
+<div align="center">
+<!-- Languages -->
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
+<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
+<a href="https://developer.apple.com/swift/"><img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" height="50"/></a>
+<a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/></a>
+<a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/></a>
+<a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50"/></a>
+<!-- Frameworks & Runtimes -->
+<a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
+<a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
+<a href="https://flutter.dev/"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="50"/></a>
+<a href="https://graphql.org/"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="50"/></a>
+</div>
 
+### 🧠 Data / AI
+<div align="center">
+<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
+<a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="50"/></a>
+<a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="50"/></a>
+</div>
+
+### 🗄 Databases
+<div align="center">
+<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
+<a href="https://mariadb.org/"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50"/></a>
+<a href="https://www.oracle.com/"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/></a>
+<a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/></a>
+</div>
+
+### ☁️ DevOps / Infra / Tools
+<div align="center">
+<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50"/></a>
+<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
+<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="50"/></a>
+<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50"/></a>
+</div>
+
+### 🎨 Design & Creative
+<div align="center">
+<a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" height="50"/></a>
+<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="50"/></a>
+<a href="https://www.adobe.com/in/products/indesign.html"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="50"/></a>
+<a href="https://www.adobe.com/in/products/premiere.html"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" height="50"/></a>
+<a href="https://www.adobe.com/in/products/xd.html"><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="50"/></a>
+<a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="50"/></a>
+<a href="https://www.adobe.com/in/products/aftereffects.html"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="50"/></a>
+</div>
 ---
 
 ## 🔗 Links
