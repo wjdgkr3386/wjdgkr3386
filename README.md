@@ -37,14 +37,12 @@
 <div align="center">
 <!-- Frameworks & UI -->
 <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
-<a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50"/></a>
 <a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/></a>
 <a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/></a>
 <a href="https://jquery.com/"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/></a>
 <a href="https://www.chartjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50"/></a>
 <!-- Languages -->
 <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
 </div>
 
