@@ -51,7 +51,6 @@
 <!-- Languages -->
 <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
 <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
-<a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50"/></a>
 <!-- Frameworks & Runtimes -->
 <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
 <a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
