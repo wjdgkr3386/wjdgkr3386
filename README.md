@@ -59,7 +59,6 @@
 ### 🧠 Data / AI
 <div align="center">
 <a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
-<a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/></a>
 </div>
 
 ### 🗄 Databases
