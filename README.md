@@ -56,10 +56,6 @@
 <a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
 </div>
 
-### 🧠 Data / AI
-<div align="center">
-<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
-</div>
 
 ### 🗄 Databases
 <div align="center">
