@@ -75,7 +75,6 @@
 <div align="center">
 <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" height="50"/></a>
 <a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="50"/></a>
-<a href="https://www.adobe.com/in/products/indesign.html"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="50"/></a>
 <a href="https://www.adobe.com/in/products/premiere.html"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" height="50"/></a>
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="50"/></a>
 <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a>
