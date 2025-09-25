@@ -67,7 +67,7 @@
 
 ## 🔗 Links
 
-- **Notion 포트폴리오**: <https://www.notion.so/aebon/> 제작중
+- **Notion 포트폴리오**: <https://www.notion.so/HOME-268a5997848780c79c4cfed98b45c92c> 제작중
 - [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
 
 ---
