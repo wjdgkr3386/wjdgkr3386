@@ -64,7 +64,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50"/></a>
 </div>
 
-### certification
+### 📜 certification
 ![정보처리기사](./images/정보처리기사.png)
 
 ## 🔗 Links
