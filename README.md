@@ -65,10 +65,8 @@
 </div>
 
 ### certification
-<div align="center">
 ![정보처리기사](./images/정보처리기사.png)
-<img src="/images/정보처리기사.png">
-</div>
+
 ## 🔗 Links
 
 - **Notion 포트폴리오**: <https://www.notion.so/HOME-268a5997848780c79c4cfed98b45c92c> 제작중
