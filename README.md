@@ -69,7 +69,7 @@
 
 ## 🔗 Links
 
-- [Notion 포트폴리오](https://www.notion.so/Portfolio-27aa59978487806abc52ce47f2339a58)
+- [Notion 포트폴리오](https://www.notion.so/27aa59978487806abc52ce47f2339a58)
 - [Notion 이력서](https://www.notion.so/27ba599784878075bd6dc779e4887bba) 제작중
 
 ---
