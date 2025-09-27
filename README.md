@@ -58,9 +58,7 @@
 
 ### ☁️ DevOps / Infra / Tools
 <div align="center">
-<a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50"/></a>
 <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
-<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50"/></a>
 </div>
 
 ### 📜 certification
