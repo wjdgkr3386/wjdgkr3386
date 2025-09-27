@@ -70,7 +70,7 @@
 ## 🔗 Links
 
 - [Notion 포트폴리오](https://www.notion.so/Portfolio-27aa59978487806abc52ce47f2339a58)
-- [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968) 제작중
+- [Notion 이력서](https://www.notion.so/27ba599784878075bd6dc779e4887bba) 제작중
 
 ---
 
