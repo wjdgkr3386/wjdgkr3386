@@ -29,37 +29,34 @@
 ## 🛠️ Tech Stack (Reorganized)
 
 ### 🎨 Frontend
-<div align="center">
+
 <!-- Frameworks & UI -->
-<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
-<a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/></a>
-<a href="https://jquery.com/"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/>
 <!-- Languages -->
-<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
-</div>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
+
 
 ### ⚙️ Backend & APIs
-<div align="center">
+
 <!-- Languages -->
-<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
-<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
 <!-- Frameworks & Runtimes -->
-<a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
-<a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
-</div>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/>
+
 
 ### 🗄 Databases
-<div align="center">
-<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>\
-<a href="https://www.oracle.com/"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/></a>
-<a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/></a>
-</div>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>\
+<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
 
 ### ☁️ DevOps / Infra / Tools
-<div align="center">
-<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
-</div>
+<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
+
 
 ### 📜 certification
 ![정보처리기사](./images/정보처리기사.png)
