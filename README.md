@@ -24,7 +24,6 @@
 ### 🎨 Frontend
 <div align="center">
 <!-- Frameworks & UI -->
-<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
 <a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/></a>
 <a href="https://jquery.com/"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/></a>
 <!-- Languages -->
