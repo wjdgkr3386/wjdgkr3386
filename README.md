@@ -67,8 +67,6 @@
 
 - Email: **wjdgkr3386@naver.com**
 
-끊임없이 배우고 성장하고 싶습니다.
-
 ---
 
 > © 2024 Jeonghak Kim | Powered by Whisper, GPT, and lifelong curiosity.
