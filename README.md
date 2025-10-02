@@ -65,7 +65,7 @@
 
 ## 📬 Contact
 
-- Email: **wjdgkr3386@naver.com**
+- Email: wjdgkr3386@naver.com
 
 ---
 
