@@ -67,7 +67,6 @@
 
 - Email: wjdgkr3386@naver.com
 
----
 
 > © 2024 Jeonghak Kim | Powered by Whisper, GPT, and lifelong curiosity.
 
